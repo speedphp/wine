@@ -22,13 +22,13 @@ Wine is a web application base of [k framework](https://www.npmjs.com/package/k)
 
 Wine 基于 [k](https://www.npmjs.com/package/k) 框架，简便、快速、MVC框架首选。
 
-##Install
+## Install
 
 ```
 npm install wine --save
 ```
 
-1.create `package.json`
+1.&nbsp;create `package.json`
 
 ```
 {
@@ -43,7 +43,7 @@ npm install wine --save
 
 the dependencies must have the `wine` lib.
 
-2.create database
+2.&nbsp;create database
 
 ```
 CREATE TABLE `codes` (
@@ -57,7 +57,7 @@ CREATE TABLE `codes` (
    ) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;
 ```
 
-3.create `main.js`
+3.&nbsp;create `main.js`
 
 ```
 const wine = require("wine")
@@ -82,13 +82,13 @@ wine(config).listen(3000)
 * `listen` can be some port you set.
 
 
-4.create `md/index.md`
+4.&nbsp;create `md/index.md`
 
 ```
 ## Welcome to Wine system.
 ```
 
-5.run
+5.&nbsp;run
 
 ```
 npm install
