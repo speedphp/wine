@@ -1,7 +1,7 @@
 {
   "name": "wine",
-  "description": "Visit your code.",
-  "license": "BSD",
+  "description": "Wiki your codes and Markdown your project each time when you submit your code to svn.",
+  "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -10,5 +10,26 @@
   "author": {
     "name": "zhenzhong"
   },
-  "version": "0.0.4"
+  "keywords": [
+    "wiki",
+    "code",
+    "koa",
+    "web",
+    "k",
+    "svn",
+    "markdown"
+  ],
+  "version": "0.6.7",
+  "dependencies": {
+    "k": "latest",
+    "koa": "^2.3.0",
+    "async": "^2.6.0",
+    "http-errors": "^1.6.2",
+    "ini": "^1.3.4",
+    "line-reader": "^0.4.0",
+    "lodash": "^4.17.4",
+    "markdown-it": "^8.4.0",
+    "node-svn-ultimate": "^1.1.0",
+    "twig": "^1.10.5"
+  }
 }

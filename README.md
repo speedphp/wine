@@ -1,3 +1,2 @@
-Visit your code.
+**Wiki your codes and Markdown your project each time when you submit your code to svn.**
 
-**the project is under construction**
