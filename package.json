@@ -21,7 +21,7 @@
   ],
   "version": "0.9.8",
   "dependencies": {
-    "k": "latest",
+    "k": "0.9.25",
     "koa": "^2.3.0",
     "async": "^2.6.0",
     "http-errors": "^1.6.2",
