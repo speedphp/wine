@@ -10,6 +10,7 @@
   "author": {
     "name": "zhenzhong"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@zhenzhong" },
   "keywords": [
     "wiki",
     "code",
