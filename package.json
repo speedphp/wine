@@ -20,7 +20,7 @@
     "svn",
     "markdown"
   ],
-  "version": "0.9.9",
+  "version": "0.9.13",
   "dependencies": {
     "k": "0.9.25",
     "koa": "^2.3.0",
